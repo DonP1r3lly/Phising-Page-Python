@@ -7,7 +7,6 @@
 # 1. Basic
 - Run the program
 - Go to your browser and write: http://localhost:8080
-- 
 
 
 # 2. Advanced
